@@ -1,0 +1,1 @@
+(#user.Borrower{:lastname "Villalonga", :firstname "Adrien", :address "51 rue du père lachaise", :books ("123456789"), :hash 1906780393} #user.Borrower{:lastname "Goni", :firstname "Baptiste", :address "71 rue des pyramides", :books (), :hash 1176485909} #user.Borrower{:lastname "Super", :firstname "Man", :address "Porte des étoile", :books (), :hash -1159548605})
